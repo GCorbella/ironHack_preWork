@@ -1,0 +1,54 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.calc- container {
+  clear: both;
+  background-color: #5995DA;
+  padding: 20px 0;
+}
+
+.calc {
+  clear: both;
+  background-color: #b9c5c6 ;
+  border: 1px solid #000;
+  padding: 15px 0;
+  width: 300px;
+  height: 380px;
+  margin: 0 auto;
+}
+.screen {
+  clear: both;
+  background-color: #fff ;
+  border: 1px solid #000;
+  padding: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.numbers {
+  clear: both;
+  padding: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.key {
+  text-align: center;
+  background-color: #fff ;
+  width: 15%;
+  float: left;
+  border: 1px solid #000;
+  padding: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+p{
+   font-weight: bold;
+}
+
+#erase {
+  color: #d40d00;
+}
